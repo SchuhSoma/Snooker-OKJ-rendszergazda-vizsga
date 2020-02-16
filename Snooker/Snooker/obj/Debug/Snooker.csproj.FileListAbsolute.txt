@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\Snooker\Snooker\bin\Debug\Snooker.exe.config
+C:\Users\Soma\Documents\C#2\Snooker\Snooker\bin\Debug\Snooker.exe
+C:\Users\Soma\Documents\C#2\Snooker\Snooker\bin\Debug\Snooker.pdb
+C:\Users\Soma\Documents\C#2\Snooker\Snooker\obj\Debug\Snooker.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Snooker\Snooker\obj\Debug\Snooker.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Snooker\Snooker\obj\Debug\Snooker.exe
+C:\Users\Soma\Documents\C#2\Snooker\Snooker\obj\Debug\Snooker.pdb
